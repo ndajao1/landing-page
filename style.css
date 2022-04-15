@@ -1,0 +1,35 @@
+body {
+
+}
+
+#header {
+
+}
+
+.top-container {
+
+}
+
+.mid-container {
+
+}
+
+.quote {
+
+}
+
+.sign-up{
+
+}
+
+#footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
